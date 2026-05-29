@@ -1,0 +1,49 @@
+data_hora,atendente,cliente,direcao,mensagem,grupo
+2026-05-23 08:30:11,,Andre Cliente,recebida,"Bom dia, queria saber sobre o servico",Grupo Vendas
+2026-05-23 08:32:48,Maria,Andre Cliente,enviada,"Bom dia Andre! Te conto agora",Grupo Vendas
+2026-05-23 08:34:12,Maria,Andre Cliente,enviada,"Plano basico R$ 297 e Premium R$ 597",Grupo Vendas
+2026-05-23 09:11:22,,Beatriz Cliente,recebida,"Oi, tem suporte?",Grupo Suporte
+2026-05-23 09:18:33,Joao,Beatriz Cliente,enviada,"Oi Beatriz! Sim, te ajudo",Grupo Suporte
+2026-05-23 10:01:48,,Roberto VIP,recebida,"Bom dia, quero fechar negocio grande",Grupo Vendas
+2026-05-23 10:07:55,Joao,Roberto VIP,enviada,"Roberto, te ligo em 5 minutos",Grupo Vendas
+2026-05-23 11:18:22,,Carlos Reclamacao,recebida,"Estou com problema no produto",Grupo Suporte
+2026-05-23 11:24:48,Maria,Carlos Reclamacao,enviada,"Carlos, vamos resolver. Me detalha",Grupo Suporte
+2026-05-23 12:30:11,,Daniela Silva,recebida,"Oi, querida saber sobre revenda",Grupo Comercial
+2026-05-23 13:11:22,,Felipe Tech,recebida,"Tem integracao com nosso ERP?",Grupo Comercial
+2026-05-23 13:42:01,Maria,Daniela Silva,enviada,"Oi Daniela! Te explico",Grupo Comercial
+2026-05-23 13:43:55,Maria,Felipe Tech,enviada,"Felipe, temos sim. Te ligo",Grupo Comercial
+2026-05-23 14:11:33,,Mariana Costa,recebida,"Quero contratar premium",Grupo Vendas
+2026-05-23 14:18:01,Joao,Mariana Costa,enviada,"Mariana! Bem-vinda. Te passo o link",Grupo Vendas
+2026-05-23 15:30:22,,Pedro Spam,recebida,"Trabalhe de casa",Grupo Vendas
+2026-05-23 16:42:18,,Gisele Pinheiro,recebida,"Oi, ja sou cliente. Posso aumentar plano?",Grupo Vendas
+2026-05-23 16:48:55,Maria,Gisele Pinheiro,enviada,"Oi Gisele! Posso te ligar?",Grupo Vendas
+2026-05-23 17:14:48,,Henrique Bento,recebida,"Quero cancelar minha assinatura",Grupo Suporte
+2026-05-23 17:22:01,Joao,Henrique Bento,enviada,"Henrique, vamos conversar antes",Grupo Suporte
+2026-05-23 18:00:33,,Isadora Lima,recebida,"Quero fazer trial",Grupo Vendas
+2026-05-24 08:30:11,,Pedro Fulano,recebida,"Bom dia, queria saber preco",Grupo Vendas
+2026-05-24 08:42:23,Joao,Pedro Fulano,enviada,"Bom dia Pedro! Te passo agora",Grupo Vendas
+2026-05-24 09:01:48,,Sandra Cicrano,recebida,"Oi, tem alguem ai?",Grupo Suporte
+2026-05-24 09:05:18,Maria,Sandra Cicrano,enviada,"Oi Sandra! Pode falar",Grupo Suporte
+2026-05-24 09:07:34,,Sandra Cicrano,recebida,"Vcs entregam em SP capital?",Grupo Suporte
+2026-05-24 09:09:01,Maria,Sandra Cicrano,enviada,"Sim, entregamos",Grupo Suporte
+2026-05-24 09:14:22,,Roberto VIP,recebida,"Bom dia",Grupo Vendas
+2026-05-24 09:18:01,Ana,Roberto VIP,enviada,"Oi Roberto! Como vai",Grupo Vendas
+2026-05-24 09:33:12,Ana,Roberto VIP,enviada,"Me conta o que voce precisa",Grupo Vendas
+2026-05-24 10:11:23,,Carlos Mello,recebida,"Tive um problema",Grupo Suporte
+2026-05-24 10:14:55,Carlos,Carlos Mello,enviada,"Carlos, me explica",Grupo Suporte
+2026-05-24 11:48:09,,Lucia Silva,recebida,"Como funciona a garantia?",Grupo Vendas
+2026-05-24 11:52:21,Joao,Lucia Silva,enviada,"Oi Lucia! 90 dias",Grupo Vendas
+2026-05-24 12:33:01,,Bruno Tech,recebida,"Boa tarde, queria conhecer",Grupo Comercial
+2026-05-24 12:35:22,Maria,Bruno Tech,enviada,"Boa tarde Bruno! Posso te ligar?",Grupo Comercial
+2026-05-24 13:14:55,,Patricia Mota,recebida,"Voces tem revenda?",Grupo Comercial
+2026-05-24 13:18:33,Maria,Patricia Mota,enviada,"Temos sim",Grupo Comercial
+2026-05-24 14:18:42,,Mariana Costa,recebida,"Oi, sobre o premium que falamos",Grupo Vendas
+2026-05-24 14:26:01,Joao,Mariana Costa,enviada,"Mariana! Vamos fechar",Grupo Vendas
+2026-05-24 15:11:09,,Aline Souza,recebida,"Quanto custa?",Grupo Vendas
+2026-05-24 15:18:33,Joao,Aline Souza,enviada,"Aline, plano basico R$ 297",Grupo Vendas
+2026-05-24 16:47:22,,Carla Premium,recebida,"Quero conhecer enterprise",Grupo Vendas
+2026-05-24 17:02:18,,Rafael Pinheiro,recebida,"Bom dia, quero contratar",Grupo Vendas
+2026-05-24 17:12:48,Joao,Rafael Pinheiro,enviada,"Boa tarde Rafael!",Grupo Vendas
+2026-05-24 17:30:11,,Tatiana Berlim,recebida,"Posso fazer trial?",Grupo Vendas
+2026-05-24 17:48:33,Maria,Tatiana Berlim,enviada,"Sim Tatiana, te libero",Grupo Vendas
+2026-05-24 18:02:18,Joao,Pedro Fulano,enviada,"Pedro, te passo as opcoes agora",Grupo Vendas
