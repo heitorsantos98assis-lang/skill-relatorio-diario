@@ -210,4 +210,4 @@ Pra cada VIP em "AGUARDANDO", crie task urgente atribuida pra ti.
 
 ---
 
-*Skill criada pela Bravy.*
+*Skill criada pela HL.*

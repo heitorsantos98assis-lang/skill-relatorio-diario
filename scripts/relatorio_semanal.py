@@ -15,7 +15,7 @@ Uso:
     python relatorio_semanal.py conversas.csv
     python relatorio_semanal.py conversas.csv --inicio 2026-05-18 --fim 2026-05-24
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

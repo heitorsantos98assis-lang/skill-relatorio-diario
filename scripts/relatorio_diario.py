@@ -11,7 +11,7 @@ CSV de entrada (cabecalho minimo):
     data_hora,atendente,cliente,direcao,mensagem
     (coluna `grupo` opcional, habilita a secao "Volume por grupo")
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

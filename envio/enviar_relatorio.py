@@ -13,7 +13,7 @@ Uso:
     python scripts/relatorio_diario.py conversas.csv | python envio/enviar_relatorio.py
     python envio/enviar_relatorio.py --arquivo relatorio.txt --prefixo "📊 Diario"
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

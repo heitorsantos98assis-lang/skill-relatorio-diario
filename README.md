@@ -166,4 +166,4 @@ PROJECAO
 
 ---
 
-*Material criado pela Bravy.*
+*Material criado pela HL.*
