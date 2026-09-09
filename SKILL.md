@@ -1,8 +1,7 @@
 ---
-name: relatorio-diario
-description: Gera relatorio diario E semanal do WhatsApp pra chegar no seu privado. Use quando o usuario pedir para "ver como foi ontem", "resumo do dia/semana", "como foi a operacao", "VIPs que mandaram", "volume por grupo", "top clientes da semana", "curva da semana", "comparativo semanal", "hora pico", "cohort cliente novo". Aceita CSV, .txt do WhatsApp Business e JSON Zappfy.
+name: skill-relatorio-diario
+description: "Gera relatorio diario E semanal do WhatsApp pra chegar no seu privado. Use quando o usuario pedir para \"ver como foi ontem\", \"resumo do dia/semana\", \"como foi a operacao\", \"VIPs que mandaram\", \"volume por grupo\", \"top clientes da semana\", \"curva da semana\", \"comparativo semanal\", \"hora pico\", \"cohort cliente novo\". Aceita CSV, .txt do WhatsApp Business e JSON Zappfy."
 allowed-tools: Read Write Bash
-user-invocable: true
 ---
 
 # Skill — Relatorio Diario E Semanal do WhatsApp

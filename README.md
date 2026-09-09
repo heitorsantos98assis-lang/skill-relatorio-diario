@@ -1,6 +1,6 @@
 # Bonus 9 — Skill de Relatorio Diario E Semanal Automatico
 
-Skill do Claude Code que gera **resumo diario** + **relatorio semanal** da operacao de WhatsApp — pra chegar no seu privado **toda manha + toda sexta**.
+Skill do Codex que gera **resumo diario** + **relatorio semanal** da operacao de WhatsApp — pra chegar no seu privado **toda manha + toda sexta**.
 
 > Foco no **negocio** (volume, VIPs, grupos, keywords, cohort), nao no time (pra time use o Bonus 8).
 > Aceita CSV padrao, export `.txt` do WhatsApp Business e JSON da Zappfy.
@@ -63,8 +63,8 @@ As duas se complementam. Operacao tipica usa as duas.
 ## Instalacao
 
 ```bash
-mkdir -p ~/.claude/skills
-cp -r . ~/.claude/skills/relatorio-diario
+mkdir -p .agents/skills/
+cp -r . .agents/skills/relatorio-diario
 ```
 
 ## Dependencias
